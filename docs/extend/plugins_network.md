@@ -71,8 +71,7 @@ plugin protocol
 ## Network plugin protocol
 
 The network driver protocol, in addition to the plugin activation call, is
-documented as part of libnetwork:
-[https://github.com/docker/libnetwork/blob/master/docs/remote.md](https://github.com/docker/libnetwork/blob/master/docs/remote.md).
+documented as part of libnetwork: [https://github.com/moby/moby/blob/master/libnetwork/docs/remote.md](https://github.com/moby/moby/blob/master/libnetwork/docs/remote.md).
 
 ## Related Information
 
